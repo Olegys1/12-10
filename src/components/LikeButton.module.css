@@ -1,0 +1,18 @@
+.likeBtn {
+  background: #f0f2f5;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.likeBtn:hover {
+  background: #e4e6eb;
+}
+
+.liked {
+  background: #ffebe9;
+  color: #ff385c;
+}
